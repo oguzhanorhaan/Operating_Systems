@@ -1,0 +1,3 @@
+﻿  Parent.c
+c:\users\oguzhan\documents\visual studio 2017\projects\hw3\hw3\parent.c(194): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  hw3.vcxproj -> C:\Users\oguzhan\Documents\Visual Studio 2017\Projects\hw3\Debug\hw3.exe

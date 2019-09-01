@@ -1,0 +1,5 @@
+﻿  Child.c
+c:\users\oguzhan\documents\visual studio 2017\projects\hw3\child\child.c(31): warning C4013: 'getpid' undefined; assuming extern returning int
+c:\users\oguzhan\documents\visual studio 2017\projects\hw3\child\child.c(72): warning C4244: 'function': conversion from 'double' to 'DWORD', possible loss of data
+c:\users\oguzhan\documents\visual studio 2017\projects\hw3\child\child.c(24): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'char *'
+  Child.vcxproj -> C:\Users\oguzhan\Documents\Visual Studio 2017\Projects\hw3\Debug\Child.exe
